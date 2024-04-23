@@ -1,5 +1,4 @@
-You can use this code to monitor the draught tend using Google Earth Engine in an specific location using NDVI and TCI indices.
-
+You can utilize this code to monitor drought trends using Google Earth Engine in a specific location by employing NDVI and TCI indices.
 
 ![Capture](https://github.com/AliBgisrs/DroughtTrend.github.io/assets/109620013/d96efa1b-2421-457b-bd14-f7e125deb82d)
 
